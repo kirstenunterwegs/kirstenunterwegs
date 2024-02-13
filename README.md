@@ -2,7 +2,7 @@
 
 - 👀 My name ist Kirsten
 - 🔭 I’m a PhD candidate at TU Munich using remote sensing data to understand forest dynamics (under climate change)
-- ⚡ I am a coffee, mountain, biking, climbing, book ..... in general an enthusiast 
+- ⚡ I am a coffee, mountain and open source enthusiast 
 - 📫 How to reach me: [kirsten.krueger@tum.de](mailto:kirsten.krueger@tum.de) 
 <!--
 **kirstenunterwegs/kirstenunterwegs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
